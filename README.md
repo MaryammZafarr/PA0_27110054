@@ -3,14 +3,14 @@
 
 The assignment focuses on developing practical understanding of fundamental deep learning concepts and implementing experiments involving:
 
-Convolutional Neural Networks (CNNs)
-ResNet-152 and residual learning
-Transfer learning and feature representations
-Vision Transformers (ViTs)
-Self-attention and attention visualization
-Contrastive learning
-CLIP and multimodal representations
-Variational Autoencoders (VAEs)
+Convolutional Neural Networks (CNNs)  
+ResNet-152 and residual learning  
+Transfer learning and feature representations  
+Vision Transformers (ViTs)  
+Self-attention and attention visualization  
+Contrastive learning  
+CLIP and multimodal representations  
+Variational Autoencoders (VAEs)  
 
 All experiments were implemented using Python and relevant deep learning and machine learning libraries.
 
